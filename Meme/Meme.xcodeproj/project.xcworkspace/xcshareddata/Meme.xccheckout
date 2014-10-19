@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C80151CC-5838-4F9D-A789-4ADA8610C1DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Meme</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5049BB2F51E0A8CB821C660AFDE31A3C461279B0</key>
+		<string>https://github.com/Paradisiak/PaulSoltLessons.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Meme/Meme.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5049BB2F51E0A8CB821C660AFDE31A3C461279B0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Paradisiak/PaulSoltLessons.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5049BB2F51E0A8CB821C660AFDE31A3C461279B0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5049BB2F51E0A8CB821C660AFDE31A3C461279B0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PaulSoltLessons</string>
+		</dict>
+	</array>
+</dict>
+</plist>
